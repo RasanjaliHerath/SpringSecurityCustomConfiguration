@@ -27,8 +27,6 @@ This is a **minimal Spring Boot + Spring Security** application designed for tes
 
 ### Screenshots
 
-![Screenshot (143)](https://github.com/user-attachments/assets/637dfe17-3efb-4de3-85bd-923eb17f8f6a)
-
 ![Screenshot (142)](https://github.com/user-attachments/assets/c03fbfd2-522e-4498-80ad-33aafa22c429)
 
 ![Screenshot (144)](https://github.com/user-attachments/assets/2bea276b-5a6a-468a-b07f-927a15b0c5c1)
